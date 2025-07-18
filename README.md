@@ -1,10 +1,10 @@
-# 🛍️ Online Retail Sales EDA & Power BI Dashboard
+#  Online Retail Sales EDA & Power BI Dashboard
 
 This project performs exploratory data analysis (EDA) on an online retail dataset using Python, and visualizes the insights with a Power BI dashboard.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 - Dataset: Online Retail data (Excel format)
 - Objective: Analyze customer behavior, product performance, and geographic trends
@@ -14,15 +14,15 @@ This project performs exploratory data analysis (EDA) on an online retail datase
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
-### 🧹 Data Cleaning
+###  Data Cleaning
 - Removed missing and duplicate records
 - Filtered out canceled transactions
 - Handled outliers in `Quantity` and `Price`
 - Added new columns like `Revenue`, `Month`, and `DayOfWeek`
 
-### 📈 Exploratory Data Analysis
+###  Exploratory Data Analysis
 - Top-selling products by quantity and revenue
 - Monthly and weekly sales trends
 - Loyal customer identification
@@ -31,30 +31,30 @@ This project performs exploratory data analysis (EDA) on an online retail datase
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
-### 💡 Pages Included
+###  Pages Included
 
-#### 1️⃣ **Sales Overview**
+####  **Sales Overview**
 - KPIs: Total Revenue, Total Invoices, Unique Customers
 - Monthly Sales Trend (Line Chart)
 
-#### 2️⃣ **Top Products**
+####  **Top Products**
 - Top 10 Products by Quantity (Bar Chart)
 - Top 10 Products by Revenue (Bar Chart)
 
-#### 3️⃣ **Customer Segments**
+####  **Customer Segments**
 - RFM Segmentation (Scatter Plot: Recency vs Frequency)
 - Segment Distribution (Bar Chart)
 - RFM Table
 
-#### 4️⃣ **Geographical Insights**
+####  **Geographical Insights**
 - Total Orders by Country (Map)
 - Revenue by Country (Map)
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 | File Name          | Description                            |
 |--------------------|----------------------------------------|
