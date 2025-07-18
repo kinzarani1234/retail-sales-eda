@@ -65,9 +65,3 @@ This project performs exploratory data analysis (EDA) on an online retail datase
 
 ---
 
-## 📥 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/online-retail-eda.git
-   cd online-retail-eda
